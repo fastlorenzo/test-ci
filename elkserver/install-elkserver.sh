@@ -5,6 +5,7 @@
 #
 # Author: Outflank B.V. / Marc Smeets
 #
+# test change in installer
 
 LOGFILE="redelk-install.log"
 INSTALLER="RedELK elkserver installer"
