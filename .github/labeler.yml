@@ -29,3 +29,6 @@ installer:
   - 'elkserver/install-elkserver.sh'
   - 'elkserver/redelk-*.yml'
   - 'redirs/install-redir.sh'
+
+githubci:
+  - '.github/**/*'
